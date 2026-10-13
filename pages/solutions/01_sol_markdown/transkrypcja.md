@@ -21,6 +21,7 @@ chyba nie użyłeś symboli które prawidłowo działają w systemie github. Pop
 
 - Równanie Schrödingera:
 
+$$
 -\frac{\hbar^2}{2m}
 \left(
 \frac{\partial^2}{\partial x^2}
@@ -32,6 +33,7 @@ chyba nie użyłeś symboli które prawidłowo działają w systemie github. Pop
 \Psi(x,y,z)
 =
 E\Psi(x,y,z)
+$$
 ``
 
 - Energia:
