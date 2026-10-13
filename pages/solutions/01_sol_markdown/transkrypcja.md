@@ -21,9 +21,19 @@ chyba nie użyłeś symboli które prawidłowo działają w systemie github. Pop
 
 - Równanie Schrödingera:
 
-<img width="4032" height="205" alt="image" src="https://github.com/user-attachments/assets/732e0134-23a9-4963-9123-ae49417abf23" />
+-\frac{\hbar^2}{2m}
+\left(
+\frac{\partial^2}{\partial x^2}
++
+\frac{\partial^2}{\partial y^2}
++
+\frac{\partial^2}{\partial z^2}
+\right)
+\Psi(x,y,z)
+=
+E\Psi(x,y,z)
 
-``
+
 
 - Energia:
 
