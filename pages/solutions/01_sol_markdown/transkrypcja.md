@@ -1,4 +1,4 @@
-<img width="2636" height="2268" alt="image" src="https://github.com/user-attachments/assets/3897819c-cc2f-4203-8cb4-7663120a50df" /># Transkrypcja
+
 
 Obrazek `zrzut.png` zatopiony w dokumencie.
 
