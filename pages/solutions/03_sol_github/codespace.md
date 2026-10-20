@@ -1,12 +1,13 @@
+# 10 postaci z komiksów, mangi i anime
 
-Spider-Man (Peter Parker) – Marvel Comics
-Batman (Bruce Wayne) – DC Comics
-Superman (Clark Kent) – DC Comics
-Naruto Uzumaki – Naruto
-Son Goku – Dragon Ball
-Monkey D. Luffy – One Piece
-Sailor Moon (Usagi Tsukino) – Czarodziejka z Księżyca
-Light Yagami – Death Note
-Eren Yeager – Attack on Titan (Shingeki no Kyojin)
-Tanjiro Kamado – Demon Slayer (Kimetsu no Yaiba)
-
+1. Spider-Man (Peter Parker)
+2. Batman (Bruce Wayne)
+3. Superman (Clark Kent)
+4. Naruto Uzumaki
+5. Son Goku
+6. Monkey D. Luffy
+7. Sailor Moon (Usagi Tsukino)
+8. Light Yagami
+9. Eren Yeager
+10. Tanjiro Kamado
+git push
