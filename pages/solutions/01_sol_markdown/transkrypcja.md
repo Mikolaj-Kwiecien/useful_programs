@@ -1,25 +1,11 @@
 
 
-Obrazek `zrzut.png` zatopiony w dokumencie.
-
-## Prompt użyty do wygenerowania tekstu przez AI
-
-```
-zrób transkrypcje na markdown.
-(następnie)
-chyba nie użyłeś symboli które prawidłowo działają w systemie github. Popraw kod
-```
-
-## Finalna wersja notatki
-
 # 11. Co to są kropki kwantowe i jakie mają własności?
 
-- QD (Quantum Dots) – struktura.
-- Ruch elektronu ograniczony w trzech wymiarach.
-- Najprostszy model: *quantum box* – kropka kwantowa w kształcie sześcianu, na zewnątrz potencjał nieskończony.
-- Równanie Schrödingera:
-
-- Równanie Schrödingera:
+- 0D struktura
+- ruch elektronu ograniczony w trzech wymiarach
+- najprostszy model: *quantum box* - kropka kwantowa w kształcie sześcianu, na zewnątrz potencjał nieskończony
+- równanie Schrödingera:
 
 $$
 -\frac{\hbar^2}{2m}
@@ -35,8 +21,7 @@ $$
 E\Psi(x,y,z)
 $$
 
-
-- Energia:
+- energia:
 
 $$
 E =
@@ -50,13 +35,15 @@ E =
 \right)
 $$
 
-- Stany energetyczne są zdegenerowane.
+- stany energetyczne są zdegenerowane
 
-- Sferyczna kropka kwantowa:
-  - rozłożenie funkcji falowej $\Psi$ na część radialną i kątową (podobieństwo do zagadnienia atomu wodoru w mechanice kwantowej),
-  - rozwiązanie opisują funkcje Bessela typu $J_{l+\frac{1}{2}}$.
+- sferyczna kropka kwantowa:
+  - rozłożenie funkcji falowej $\Psi$ na część radialną i kątową (podobieństwo do zagadnienia atomu wodoru w mechanice kwantowej)
+  - rozwiązanie: funkcje Bessela typu $J_{l+1/2}$
 
 # 12. Porównać własności heterostruktur, drutów i kropek kwantowych.
 
 
-Pracuje nad tymi wzorami.
+
+
+
