@@ -7,8 +7,7 @@
 - najprostszy model: *quantum box* - kropka kwantowa w kształcie sześcianu, na zewnątrz potencjał nieskończony
 - równanie Schrödingera:
 
-$$
--\frac{\hbar^2}{2m}
+$$-\frac{\hbar^2}{2m}
 \left(
 \frac{\partial^2}{\partial x^2}
 +
